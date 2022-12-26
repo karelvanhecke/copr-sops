@@ -1,4 +1,5 @@
-%global goipath github.com/mozilla/sops
+%global goipath go.mozilla.org/sops/v3
+%global forgeurl github.com/mozilla/sops
 Version: 3.7.3
 
 %global gomodulesmode GO111MODULE=on
